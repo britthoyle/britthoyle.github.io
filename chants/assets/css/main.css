@@ -1,0 +1,87 @@
+body {
+	background-color:pink;
+	font-family:arial;
+
+	
+}
+
+.bg{
+	text-align:center;
+	
+	
+	
+}
+
+.bg.one{
+	display:block;
+
+	
+}
+
+.bg.two{
+	display:block;
+	
+}
+
+.bg.three{
+	display:block;
+}
+
+.bg.four{
+	display:block;
+}
+
+.mid{
+	
+}
+
+.mid.one{
+	color:pink;
+	line-height:20vw;
+	text-align:center;
+	text-shadow:5px 5px 5px white;
+	
+}
+
+.mid.two{
+	color:mistyrose;
+	text-align:center;
+	
+}
+
+.mid.three{
+	color:lightsalmon;
+	text-align:center;
+
+
+	
+}
+
+.mid.four{
+	color:peachpuff;
+	text-align:center;
+
+}
+
+.text{
+
+}
+
+.text.one{
+	font-size:70px;
+}
+
+.text.two{
+	font-size:100px;
+}
+
+.text.three{
+	font-size:200px;
+	line-height:180px;
+}
+
+.text.four{
+	font-size:300px;
+	line-height:235px;
+}
+

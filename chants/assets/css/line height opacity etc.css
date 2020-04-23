@@ -1,0 +1,77 @@
+body {
+	background-color:lime;
+	font-family:arial;
+}
+
+.bg{
+	text-align:center;
+	
+}
+
+.bg.one{
+	display:block;
+	background-image:linear-gradient(red , yellow);
+}
+
+.bg.two{
+	display:block;
+	background-image:linear-gradient(lime,yellow,blue);
+}
+
+.bg.three{
+	display:none;
+}
+
+.bg.four{
+	display:none;
+}
+
+.mid{
+	
+}
+
+.mid.one{
+	color:yellow;
+	line-height:20vw;
+	
+}
+
+.mid.two{
+	color:red;
+	line-height:40vw;
+	
+}
+
+.mid.three{
+	color:lime;
+
+	
+}
+
+.mid.four{
+	color:lime;
+
+}
+
+.text{
+
+}
+
+.text.one{
+	font-size:30px;
+}
+
+.text.two{
+	font-size:70px;
+}
+
+.text.three{
+	font-size:200px;
+	line-height:180px;
+}
+
+.text.four{
+	font-size:300px;
+	line-height:235px;
+}
+
