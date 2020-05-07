@@ -1,0 +1,172 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 32px;
+}
+
+a {
+	color:red;
+}
+
+.container {
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.item img {
+	width:100%;
+}
+
+.item video {
+	width:100%;
+}
+
+.w1of1 {
+	width:100%;
+}
+
+.w1of2 {
+	width:50%;
+}
+
+.w2of2 {
+	width:100%;
+}
+
+.w1of4 {
+	width:25%;
+}
+
+.w2of4 {
+	width:50%;
+}
+
+.w3of4 {
+	width:75%;
+}
+
+.w4of4 {
+	width:100%;
+}
+
+.w1of3 {
+	width:33.33%;
+}
+
+.w2of3 {
+	width:66.66%;
+}
+
+.w3of3 {
+	width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*yellow*/
+
+.yellow {
+	position:absolute;
+	margin-top:380px;
+	height:500px;
+	width:1000px;
+	margin-left:400px;
+}
+
+/*world*/
+
+.world img {
+	position:absolute;
+	margin-top:20px;
+	margin-left:1250px;
+	height:175px;
+	width:175px;
+}
+
+
+
+/*cyan*/
+
+.cyan {
+	background-color:black;
+}
+.item video {
+	margin-top:-20px;
+}
+
+
+
+
+/*red*/
+
+.red {
+	background-color:black;
+	font-size:160px;
+	color:white;
+	text-align:center;
+}
+
+
+/*pink*/
+
+.pink {
+	position:absolute;
+	margin-left:500px;
+}
+
+/*hello*/
+
+.hello {
+	background-color:black;
+}
+
+/*green*/
+
+
+
+.green {
+	background-color:black;
+ 	
+ 	
+
+}
+
+/*grey*/
+
+.grey {
+	background-color:black;
+}
+
+/*white*/
+
+.white {
+	background-color:black; 
+}
+
+/*mecca*/
+
+.mecca {
+	background-color:grey;
+	font-size:30px;
+	font-family:courier;
+}
+
+
+
+
+
+
+
+
+
+
