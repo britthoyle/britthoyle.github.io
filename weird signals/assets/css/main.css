@@ -1,0 +1,246 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	font-size: 32px;
+}
+
+a {
+	color:red;
+}
+
+.menu {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.menu img {
+	width:200px;
+	height:200px;
+	left:100px;
+}
+
+.menu:hover {
+  background-color: grey;
+}
+
+.close {
+  width: 75px;
+  height: 75px;
+  background-color: black;
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 3;
+  cursor: pointer;
+  display: none;
+}
+
+.close.show {
+  display: block;
+}
+
+.close:hover {
+  background-color: lightgrey;
+}
+
+.essay {
+  width: 50%;
+  height: 100vh;
+  overflow: scroll;
+  font-family: courier;
+  position: fixed;
+  background-color: white;
+  right: 0;
+  top: 0;
+  z-index: 2;
+  margin-right: -50%;
+  transition: 1s;
+}
+
+.essay.slide {
+  margin-right: 0;
+  transition: 1s;
+}
+
+.essay h1 {
+  font-size: 36px;
+  text-align: center;
+  padding-top: 24px;
+  padding-bottom: 100px;
+}
+
+.essay p {
+  font-size: 24px;
+  padding: 24px;
+}
+
+
+.container {
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.item img {
+	width:100%;
+	display:block;
+}
+
+.item video {
+	width:100%;
+	display:block;
+}
+
+.w1of1 {
+	width:100%;
+}
+
+.w1of2 {
+	width:50%;
+}
+
+.w2of2 {
+	width:100%;
+}
+
+.w1of4 {
+	width:25%;
+}
+
+.w2of4 {
+	width:50%;
+}
+
+.w3of4 {
+	width:75%;
+}
+
+.w4of4 {
+	width:100%;
+}
+
+.w1of3 {
+	width:33.33%;
+}
+
+.w2of3 {
+	width:66.66%;
+}
+
+.w3of3 {
+	width:100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*yellow*/
+
+.yellow {
+	position:absolute;
+	margin-top:400px;
+	height:1200px;
+	width:1000px;
+	margin-left:400px;
+}
+
+.yellow img {
+	height:60px;
+	width:600px;
+}
+
+
+
+/*cyan*/
+
+.cyan {
+	background-color:black;
+}
+.item video {
+	margin-top:-20px;
+}
+
+
+
+
+/*red*/
+
+.red {
+	background-color:black;
+	font-size:160px;
+	color:white;
+	text-align:center;
+}
+
+
+/*pink*/
+
+.pink {
+	position:absolute;
+	margin-left:1000px;
+	color:white;
+	font-size:20px;
+	font-family:courier;
+}
+
+/*hello*/
+
+.hello {
+	background-color:black;
+}
+
+/*green*/
+
+
+
+.green {
+	background-color:black;
+ 	
+ 	
+
+}
+
+/*grey*/
+
+.grey {
+	background-color:black;
+}
+
+/*white*/
+
+.white {
+	background-color:black; 
+}
+
+/*mecca*/
+
+.mecca {
+	background-color:black;
+	font-size:20px;
+	font-family:courier;
+	color:white;
+	text-align:center;
+	display:block;
+}
+
+
+
+
+
+
+
+
+
+
+
