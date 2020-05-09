@@ -147,17 +147,12 @@ a {
 
 /*yellow*/
 
-.yellow {
-	position:absolute;
-	margin-top:400px;
-	height:1200px;
-	width:1000px;
-	margin-left:400px;
-}
-
 .yellow img {
-	height:60px;
-	width:600px;
+	height:50px;
+	width:500px;
+	position:absolute;
+	top:10px;
+	right:210px;
 }
 
 
@@ -170,9 +165,6 @@ a {
 .item video {
 	margin-top:-20px;
 }
-
-
-
 
 /*red*/
 
@@ -192,6 +184,7 @@ a {
 	color:white;
 	font-size:20px;
 	font-family:courier;
+	top:910px;
 }
 
 /*hello*/
@@ -200,16 +193,29 @@ a {
 	background-color:black;
 }
 
+/*alone*/
+
+.alone img {
+	position:absolute;
+	padding:5px;
+}
+
 /*green*/
-
-
 
 .green {
 	background-color:black;
- 	
- 	
-
 }
+
+/*globe*/
+
+.globe img {
+	position:absolute;
+	width:400px;
+	height:400px;
+	left:520px;
+	top:2650px;
+}
+
 
 /*grey*/
 
@@ -226,7 +232,7 @@ a {
 /*mecca*/
 
 .mecca {
-	background-color:black;
+	background-color:white;
 	font-size:20px;
 	font-family:courier;
 	color:white;
@@ -234,7 +240,12 @@ a {
 	display:block;
 }
 
+/*credit*/
 
+.credit {
+	padding:8px;
+	background-color:black;
+}
 
 
 
