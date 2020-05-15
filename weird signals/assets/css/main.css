@@ -49,9 +49,10 @@ a {
   width: 50%;
   height: 100vh;
   overflow: scroll;
-  font-family: courier;
+  font-family: arial;
   position: fixed;
-  background-color: white;
+  background-color: black;
+  color:white;
   right: 0;
   top: 0;
   z-index: 2;
@@ -65,15 +66,22 @@ a {
 }
 
 .essay h1 {
-  font-size: 36px;
+  font-size: 60px;
   text-align: center;
   padding-top: 24px;
   padding-bottom: 100px;
+  padding:20px;
+}
+
+.essay h2 {
+  font-size: 35px;
+  padding: 20px;
+  text-align:center;
 }
 
 .essay p {
-  font-size: 24px;
-  padding: 24px;
+	font-size:20px;
+	text-align:center;
 }
 
 
@@ -156,7 +164,6 @@ a {
 }
 
 
-
 /*cyan*/
 
 .cyan {
@@ -184,7 +191,7 @@ a {
 	color:white;
 	font-size:20px;
 	font-family:courier;
-	top:910px;
+	top:3960px
 }
 
 /*hello*/
@@ -197,7 +204,7 @@ a {
 
 .alone img {
 	position:absolute;
-	padding:5px;
+	padding:10px;
 }
 
 /*green*/
@@ -223,10 +230,20 @@ a {
 	background-color:black;
 }
 
+
+
 /*white*/
 
 .white {
 	background-color:black; 
+}
+
+.globe2 img {
+	position:absolute;
+	width:300px;
+	height:300px;
+	left:560px;
+	top:5290px;
 }
 
 /*mecca*/
@@ -238,6 +255,14 @@ a {
 	color:white;
 	text-align:center;
 	display:block;
+}
+
+.mecca img {
+	position:absolute;
+	width:300px;
+	height:200px;
+	top:6300px;
+	left:20px;
 }
 
 /*credit*/
