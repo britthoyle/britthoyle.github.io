@@ -62,6 +62,16 @@ a {
 	color:lightsalmon;
 }
 
+.face {
+	position:absolute;
+	top:300px;
+	left:110px;
+}
+
+.green {
+	position:absolute;
+}
+
 .welcome {
 font-size:165px;
 margin-top:10px;
