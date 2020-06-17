@@ -33,13 +33,21 @@ a {
 
 .alpaca {
 	position:absolute;
-	top:190px;
-	left:50px;
+	height:50px;
+	width:200px;
+}
+
+.title img {
+	position:absolute;
+	width:1300px;
+	height:300px;
+	top:5px;
+	left:9px;
 }
 
 .links {
 	position:fixed;
-	top:10px;
+	top:45px;
 	left:30px;
 	font-family:courier;
 
@@ -62,7 +70,7 @@ a {
 	color:lightsalmon;
 }
 
-.face {
+.face img {
 	position:absolute;
 	top:300px;
 	left:110px;
@@ -117,9 +125,9 @@ text-shadow:0px 0px 20px white;
 	padding:10px;
 }
 
-.icon {
+.icon img {
 	position:fixed;
-	top:50px;
-	right:300px;
-	width:250px;
+	top:140px;
+	right:200px;
+	width:500px;
 }

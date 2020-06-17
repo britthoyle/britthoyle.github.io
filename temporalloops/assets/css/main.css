@@ -8,6 +8,11 @@ a {
 }
 
 
+.item video {
+	width:100%;
+	display:block;
+}
+
 .w1of1 {
 	width:100%;
 }
@@ -82,6 +87,11 @@ a {
 	margin-right:2px;
 }
 
+.drone img {
+	position:absolute;
+
+}
+
 
 
 .yellow {
@@ -105,22 +115,9 @@ a {
 	left:10px;
 }
 
-.drone img {
-	position:absolute;
-	width:300px;
-	height:300px;
-	right:20px;
-	top:1180px;
-	overflow:hidden;
-	transition-duration:0.8s;
-	transition-property:transform;
-}
 
 
-.drone:hover {
-	transform: rotate(360deg);
-	-webkit-transform:rotate(360deg);
-}
+
 
 
 
