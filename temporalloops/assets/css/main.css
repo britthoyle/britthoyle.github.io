@@ -56,7 +56,9 @@ a {
 
 
 
-
+.header {
+	position:absolute;
+}
 
 .title {
 	position:absolute;
