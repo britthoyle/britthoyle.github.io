@@ -5,17 +5,11 @@ $(document).ready(function(){
 		$('.t-1').slideToggle("slow");
 	});
 
-	$('.h-2').click(function(){
+	$('.title').click(function(){
 		$('.t-2').slideToggle("slow");
-	})
-
-	$('.h-3').click(function(){
-		$('.t-3').slideToggle("slow");
 	});
 
 });
-
-
 
 
 

@@ -56,10 +56,6 @@ a {
 
 
 
-.header {
-	position:absolute;
-}
-
 .title {
 	position:absolute;
 	width:100%;
@@ -133,6 +129,46 @@ left:100px;
 	top:850px;
 	left:10px;
 }
+
+.header {
+	left:100px;
+}
+
+.header img {
+	background-color:black;
+	display:flex;
+	cursor:pointer;
+	padding:20px;
+}
+
+.header img {
+	width:1420px;
+	height:130px;
+
+}
+
+.header img:hover {
+background-color:grey;
+}
+
+
+.toggle {
+	padding:20px;
+	display:none;
+	padding:20px;
+}
+
+.toggle img {
+	width:1320px;
+	height:100px;
+	left:100px;
+}
+
+
+
+
+
+
 
 
 
