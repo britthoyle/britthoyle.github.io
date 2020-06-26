@@ -9,6 +9,14 @@ a {
 	color:olive;
 }
 
+
+.title img {
+	position:absolute;
+	width:1400px;
+	height:350px;
+	top:-5px;
+}
+
 .image {
 	width:1200px;
 	height:973px;
@@ -33,21 +41,13 @@ a {
 
 .alpaca {
 	position:absolute;
-	height:50px;
-	width:200px;
-}
-
-.title img {
-	position:absolute;
-	width:1300px;
-	height:300px;
-	top:5px;
-	left:9px;
+	top:190px;
+	left:50px;
 }
 
 .links {
 	position:fixed;
-	top:45px;
+	top:40px;
 	left:30px;
 	font-family:courier;
 
@@ -70,15 +70,12 @@ a {
 	color:lightsalmon;
 }
 
-.face img {
+.face {
 	position:absolute;
 	top:300px;
 	left:110px;
 }
 
-.green {
-	position:absolute;
-}
 
 .welcome {
 font-size:165px;
@@ -125,9 +122,9 @@ text-shadow:0px 0px 20px white;
 	padding:10px;
 }
 
-.icon img {
+.icon {
 	position:fixed;
-	top:140px;
-	right:200px;
-	width:500px;
+	top:145px;
+	right:300px;
+	width:250px;
 }

@@ -13,6 +13,11 @@ a {
 	display:block;
 }
 
+.item img {
+	width:100%;
+	display:block;
+}
+
 .w1of1 {
 	width:100%;
 }
@@ -130,6 +135,15 @@ left:100px;
 	left:10px;
 }
 
+.mid img {
+	top:2135px;
+	position:absolute;
+	height:500px;
+	width:500px;
+	left:470px;
+
+}
+
 .header {
 	left:100px;
 }
@@ -159,9 +173,9 @@ background-color:grey;
 }
 
 .toggle img {
-	width:1320px;
-	height:100px;
-	left:100px;
+	width:1000px;
+	height:600px;
+	left:50%;
 }
 
 
